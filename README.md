@@ -4,7 +4,7 @@ Given a training corpus (train.txt) containing POS tagging for English sentences
 <br/>
 Tasks: <br/>
  Calculate the bigram and lexical probabilities <br/>
- Viterbi algorithm is used for POS tagging<br/><br/>
+ Viterbi algorithm is used for POS tagging<br/>
  The performance measures (precision, recall and F1 Score) made to be reported in a text file (output.txt). <br/><br/>
 Format of train.txt, test1.txt and test2.txt files is:<br/>
  Each line represents a sentence<br/>
